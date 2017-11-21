@@ -10,14 +10,18 @@ A QA Technical interview based on an example with requirements and wireframes.
 * [Wireframes](#wireframes)
 * [Assumptions](#assumptions)
 * [Requirements](#requirements)
+* [Acceptance Criteria](#acceptance-criteria)
 * [Installation](#installation)
 
 <hr>
 
 ## <a id="description"></a>Description
 
+<!-- This all goes to Acceptance Criteria -->
+
 Using the requirements and wireframes below, create a feature file to verify user input and UI options. 
-Please, write using Gherkin language with Given/When/Then format. 
+
+Please, write it using `Gherkin`. 
 
 <hr>
 
